@@ -1,8 +1,8 @@
-👋**Hi, I'm Emily Khue Bui 
+👋**Hi, I'm Emily Khue Bui **
 💼 Aspiring Finance Professional | Ex Macro Market Risk & Treasury Summer Analyst @ Arena Investors, LP | Prev Private Equity Intern  Berkman Woods 
 🎓 B.S. Economics & Quantitative Econometrics + Business @ University of South Florida (GPA: 3.4/4.0) 
 🎓 M.S. in Finance @ Brandeis University (Expected Dec 2027) 
-🌐 LinkedIn | 📍 Waltham, MA**
+🌐 LinkedIn | 📍 Waltham, MA
 
 🚀 About Me
 
