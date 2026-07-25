@@ -9,9 +9,9 @@
 
 I'm a finance professional passionate about market risk, portfolio strategy, and investment analysis. My work bridges macro risk management, private equity, portfolio managerment, and equity research — turning complex market data into clear, actionable insight.
 
-Some highlights:
+**Some highlights:**
 
-*📊 Partnered with the Chief Risk Officer at Arena Investors to build out a Value-at-Risk (VaR) framework in Aladdin for a $330M AUM Fixed Income Insurance portfolio
+*  📊 Partnered with the Chief Risk Officer at Arena Investors to build out a Value-at-Risk (VaR) framework in Aladdin for a $330M AUM Fixed Income Insurance portfolio
 * 🏦 Priced $30M–$150M+ real estate equity and structured credit investments across multifamily, office, and mixed-use assets
 * 💱 Ran FX stress tests and scenario analyses ahead of FOMC meetings, modeling portfolio impact across rate-cut scenarios
 * 📈 Managed a 22-stock student-run equity portfolio at USF's $600K Investment Fund, closing five positions with ~15% expected IRR
